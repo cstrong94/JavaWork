@@ -1,0 +1,34 @@
+.container {
+    height: 100vh;
+    width: 100%;
+}
+.jumbotron {
+    background-image: url(https://photographylife.com/wp-content/uploads/2017/05/877-copy.jpg) ;
+    background-size: cover; 
+    height: 100%;
+    width: 100%;
+}
+.w3-card {
+    border: 1px solid black;
+}
+.containers {
+    width: 100%;
+    background-color: #328DA8;
+    padding: 100px;
+}
+.containerss {
+    background-color: #FAEBEB;
+    padding: 180px;
+}
+.container features {
+    padding: 20px;
+}
+.footer {
+    background-color: #333333;
+    overflow: hidden;
+    position: relative; 
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 150px;      
+}
